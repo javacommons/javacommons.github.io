@@ -1,0 +1,1 @@
+[Tribes of Midgard \(勇者ドモボーイ\) - YouTube](https://www.youtube.com/playlist?list=PLEDxho8VcI4pX3B0b4ZFnkNM_7F6gw8DL)

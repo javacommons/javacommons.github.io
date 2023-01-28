@@ -1,0 +1,1 @@
+[Twitterがあらゆるサードパーティー製アプリを許可しないことを公式発表 - GIGAZINE](https://gigazine.net/news/20230120-twitter-bans-third-party-clients-developer-rules/)
