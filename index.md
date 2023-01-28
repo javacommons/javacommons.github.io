@@ -5,3 +5,5 @@
 
 * [test01](test01/index.md)
 * [PC価格](PC価格/index.md)
+* [ブックマーク](ブックマーク/index.md)
+
