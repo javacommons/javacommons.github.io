@@ -1,4 +1,4 @@
-PC価格
+TITLE: PC価格 [(HOME)](../index.md)
 
 [価格.com - メモリ容量:32GBのデスクトップパソコン 価格の安い順](https://kakaku.com/pc/desktop-pc/itemlist.aspx?pdf_Spec315=32&pdf_so=p1)
 
