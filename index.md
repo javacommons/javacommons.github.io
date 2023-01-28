@@ -8,3 +8,5 @@
 * [ブックマーク](ブックマーク/index.md)
 * [CsvHelper](CsvHelper/index.md)
 
+* [\#script](sharpscript/index.md)
+* [git](git/index.md)
