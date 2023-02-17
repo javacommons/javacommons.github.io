@@ -4,6 +4,8 @@
 * [https://www.bing.com/](https://www.bing.com/)
 * [https://chat.openai.com/chat](https://chat.openai.com/chat)
 
+* <a target="_blank" href="https://www.bing.com/">https://www.bing.com/</a>
+
 * [https://bookmarkos.com/](https://bookmarkos.com/)
 
 * [https://github.com/javacommons?tab=repositories](https://github.com/javacommons?tab=repositories)
