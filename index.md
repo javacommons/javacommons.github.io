@@ -2,6 +2,9 @@
 サイト: [https://javacommons.github.io/](https://javacommons.github.io/)
 リポジトリ: [https://github.com/javacommons/javacommons.github.io](https://github.com/javacommons/javacommons.github.io)
 
+* [https://www.bing.com/](https://www.bing.com/)
+* [https://chat.openai.com/chat](https://chat.openai.com/chat)
+
 * [https://bookmarkos.com/](https://bookmarkos.com/)
 
 * [https://github.com/javacommons?tab=repositories](https://github.com/javacommons?tab=repositories)
