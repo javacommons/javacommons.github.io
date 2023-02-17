@@ -1,5 +1,5 @@
 これは `javacommons.github.io/index.md` です。
-リポジトリ: [https://github.com/javacommons/javacommons.github.io/blob/main/index.md](https://github.com/javacommons/javacommons.github.io/blob/main/index.md)
+リポジトリ: <a target="_blank" href="https://github.com/javacommons/javacommons.github.io/blob/main/index.md">index.md</a>
 
 * <a target="_blank" href="https://www.bing.com/">https://www.bing.com/</a>
 * <a target="_blank" href="https://chat.openai.com/chat">https://chat.openai.com/chat</a>
