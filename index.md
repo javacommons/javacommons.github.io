@@ -1,5 +1,4 @@
 これは `javacommons.github.io/index.md` です。
-サイト: [https://javacommons.github.io/](https://javacommons.github.io/)
 リポジトリ: [https://github.com/javacommons/javacommons.github.io](https://github.com/javacommons/javacommons.github.io)
 
 * [https://www.bing.com/](https://www.bing.com/)
