@@ -1,5 +1,5 @@
 ---
-title: temp/index.md
+title: temp.md
 permalink: /temp/
 ---
 
