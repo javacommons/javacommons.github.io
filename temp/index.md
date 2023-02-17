@@ -1,7 +1,5 @@
 ---
-layout: default
-title: github pages sample
-description: github pagesのサンプルページです！
+title: temp/index.md
 permalink: /temp/
 ---
 
