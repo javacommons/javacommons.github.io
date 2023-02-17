@@ -6,6 +6,7 @@
 * <a target="_blank" href="https://www.bing.com/">https://www.bing.com/</a>
 * <a target="_blank" href="https://chat.openai.com/chat">https://chat.openai.com/chat</a>
 * <a target="_blank" href="/temp/">[temp]</a>
+* <a target="_blank" href="/YouTube/">[YouTube]</a>
 
 * [https://bookmarkos.com/](https://bookmarkos.com/)
 
