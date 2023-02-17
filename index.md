@@ -1,9 +1,11 @@
 これは `javacommons.github.io/index.md` です。
 <a target="_blank" href="https://github.com/javacommons/javacommons.github.io/blob/main/index.md">EDIT</a>
 
+11:52
+
 * <a target="_blank" href="https://www.bing.com/">https://www.bing.com/</a>
 * <a target="_blank" href="https://chat.openai.com/chat">https://chat.openai.com/chat</a>
-* <a target="_blank" href="https://javacommons.github.io/temp/">[temp]</a>
+* <a target="_blank" href="/temp/">[temp]</a>
   <a target="_blank" href="https://github.com/javacommons/javacommons.github.io/blob/main/temp/index.md">EDIT</a>
 
 * [https://bookmarkos.com/](https://bookmarkos.com/)
