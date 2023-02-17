@@ -1,6 +1,6 @@
 ---
 title: YouTube.md
-permalink: /YouTube/
+permalink: /YouTube.md/
 ---
 
 [EDIT](https://github.com/javacommons/javacommons.github.io/blob/main/temp.md)
