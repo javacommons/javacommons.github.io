@@ -1,0 +1,11 @@
+#theme: jekyll-theme-cayman
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
+
+title: "@TheUltimateLangまとめ"
+description: "@TheUltimateLangまとめの説明"
+logo: tacoin.png
+
+twitter:
+  username: TheUltimateLang
