@@ -3,7 +3,7 @@
 
 * <a target="_blank" href="https://www.bing.com/">https://www.bing.com/</a>
 * <a target="_blank" href="https://chat.openai.com/chat">https://chat.openai.com/chat</a>
-* <a target="_blank" href="https://javacommons.github.io/temp/index.md">[temp]</a>
+* <a target="_blank" href="https://javacommons.github.io/temp/">[temp]</a>
   <a target="_blank" href="https://github.com/javacommons/javacommons.github.io/blob/main/temp/index.md">EDIT</a>
 
 * [https://bookmarkos.com/](https://bookmarkos.com/)
