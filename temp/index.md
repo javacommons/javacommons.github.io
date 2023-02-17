@@ -2,6 +2,7 @@
 layout: default
 title: github pages sample
 description: github pagesのサンプルページです！
+permalink: /temp/
 ---
 
 this is temp.md
