@@ -1,6 +1,6 @@
 ---
 title: temp.md
-permalink: /temp.md
+permalink: /temp.md/
 ---
 
 <a href="https://github.com/javacommons/javacommons.github.io/blob/main/temp.md">EDIT</a>
